@@ -1,3 +1,22 @@
+
+// Game rules
+
+/*
+There are 3 entities here 
+	Guesser - guy who gives the number to guess
+	Player - player who guess number (total 3 players)
+	Umpire - compares and declare who won
+
+step1 -> guesser gives number to umpire
+step2 -> players guess the number
+step3 -> umpire compares the numbers and declare who won
+
+Main feature added
+	-> Game will keep on running until a single player won
+	-> 2 or more winners not accepted
+	-> if 2 players won only they both will be continueing the game
+*/
+	
 import java.util.*;
 
 class Guesser {
