@@ -21,7 +21,7 @@ public class Q5 {
     }
 }
 
-
+//below is the output
 
 // input = 14
 // output
